@@ -125,6 +125,12 @@ header h1 {
   text-indent: -9999px;
 }
 
+header h1 a {
+  display: block;
+  height: 50px;
+  width: 160px;
+}
+
 section {
   text-align: center;
 }

@@ -113,11 +113,10 @@ body {
 }
 
 header {
-  height: 50px;
   background-color: #222;
   color: #FFF;
-  line-height: 50px;
   margin-bottom: 50px;
+  padding-top: 50px;
 }
 
 header h1 {
@@ -127,8 +126,8 @@ header h1 {
 
 header h1 a {
   display: block;
-  height: 50px;
-  width: 160px;
+  height: 75px;
+  width: 317px;
 }
 
 section {

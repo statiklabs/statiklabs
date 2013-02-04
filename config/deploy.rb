@@ -1,5 +1,5 @@
 set :application, "statiklabs"
-set :repository,  "ssh://git@git.statiklabs.com:10056/statiklabs.git" 
+set :repository,  "ssh://ysarazin@git.statiklabs.com:10056/~/git/statiklabs.git" 
 set :scm, :git
 set :branch, "master"
 set :user, "ysarazin"
